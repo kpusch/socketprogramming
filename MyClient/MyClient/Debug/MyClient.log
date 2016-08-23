@@ -1,0 +1,10 @@
+﻿  MyClientDlg.cpp
+c:\users\치훈\desktop\인강\넷프\프로젝트\myclient\myclient\myclientdlg.cpp(60): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\치훈\desktop\인강\넷프\프로젝트\myclient\myclient\myclientdlg.cpp(64): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2699): note: 'WSAAsyncSelect' 선언을 참조하십시오.
+c:\users\치훈\desktop\인강\넷프\프로젝트\myclient\myclient\myclientdlg.cpp(181): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2699): note: 'WSAAsyncSelect' 선언을 참조하십시오.
+c:\users\치훈\desktop\인강\넷프\프로젝트\myclient\myclient\myclientdlg.cpp(204): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2699): note: 'WSAAsyncSelect' 선언을 참조하십시오.
+  MyClient.vcxproj -> C:\Users\치훈\Desktop\인강\넷프\프로젝트\MyClient\Debug\MyClient.exe
